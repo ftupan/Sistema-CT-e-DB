@@ -1,0 +1,10 @@
+DROP TABLE IF EXISTS nota_fiscal;
+DROP TABLE IF EXISTS composicao_frete;
+DROP TABLE IF EXISTS cte;
+DROP TABLE IF EXISTS item_tabela_frete;
+DROP TABLE IF EXISTS componente_frete;
+DROP TABLE IF EXISTS tabela_frete;
+DROP TABLE IF EXISTS unidade_emissora;
+DROP TABLE IF EXISTS cliente;
+DROP TABLE IF EXISTS municipio;
+DROP TABLE IF EXISTS uf;
